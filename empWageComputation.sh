@@ -10,4 +10,4 @@ then
 else
     salary=0
 fi
-
+ echo "show salary also"
